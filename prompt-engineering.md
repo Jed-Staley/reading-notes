@@ -1,9 +1,13 @@
 # Prompt:
 
 Explain a good approach to entering a choke point in CSGO where the choke point is specified by the user. Place emphasis on util, and make sure to specify what util to buy at the start of the round.
+
 Input: When entering mid on Vertigo as T side by myself, what kind of approach should I take?
+
 Output: Buy a nade, a molly, and 2 flashes. Flash around the first corner and swing quickly. Then line up behind the box, flash over it, and nade platform over the box. then throw a molly off the wall so that it rebounds to behind box and swing the rest of mid.
+
 Input: When entering B site on Vertigo as T side by myself, what kind of approach should I take?
+
 Output:
 
 # Output:
