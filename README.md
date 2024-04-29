@@ -18,11 +18,7 @@
 
 3. ## Code 301 - Intermediate Software Development
 
-   - 1st Reading
-  
-   - 2nd Reading
 
-   - 3rd Reading
 
 4. ## Code 401 - Advanced Software Development
 
