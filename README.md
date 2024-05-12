@@ -8,26 +8,18 @@
 
 2. ## Code 201 - Foundations of Software Development
 
-   - [1st Reading](./201/class-01.md)
+   - [Class 1](./201/class-01.md)
 
-   - [2nd Reading](./201/class-02.md)
+   - [Class 2](./201/class-02.md)
 
-   - [3rd Reading](./201/class-03.md)
+   - [Class 3](./201/class-03.md)
 
-   - [4th Reading](./201/class-04.md)
+   - [Class 4](./201/class-04.md)
 
 3. ## Code 301 - Intermediate Software Development
 
-   - 1st Reading
-  
-   - 2nd Reading
-
-   - 3rd Reading
+   - *None*
 
 4. ## Code 401 - Advanced Software Development
 
-   - 1st Reading
-
-   - 2nd Reading
-
-   - 3rd Reading
+   - [Class 11](./401/class-11.md)
