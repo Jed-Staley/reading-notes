@@ -23,3 +23,5 @@
 4. ## Code 401 - Advanced Software Development
 
    - [Class 11](./401/class-11.md)
+
+   - [Class 12](./401/class-12.md)
