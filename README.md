@@ -41,3 +41,5 @@
 - [Class 16](./401/module-4/class-16.md)
 
 - [Class 17](./401/module-4/class-17.md)
+
+- [Class 18](./401/module-4/class-18.md)
