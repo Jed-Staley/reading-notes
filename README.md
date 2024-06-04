@@ -45,3 +45,7 @@
 - [Class 18](./401/module-4/class-18.md)
 
 - [Class 19](./401/module-4/class-19.md)
+
+### Module 6
+
+- [Class 27](./401/module-6/class-27.md)
