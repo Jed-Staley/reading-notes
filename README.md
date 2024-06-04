@@ -49,3 +49,5 @@
 ### Module 6
 
 - [Class 27](./401/module-6/class-27.md)
+
+- [Class 28](./401/module-6/class-28.md)
