@@ -51,3 +51,5 @@
 - [Class 27](./401/module-6/class-27.md)
 
 - [Class 28](./401/module-6/class-28.md)
+
+- [Class 29](./401/module-6/class-29.md)
