@@ -53,3 +53,13 @@
 - [Class 28](./401/module-6/class-28.md)
 
 - [Class 29](./401/module-6/class-29.md)
+
+### Module 7
+
+- [Class 31](./401/module-6/class-31.md)
+
+- [Class 32](./401/module-6/class-32.md)
+
+- [Class 33](./401/module-6/class-33.md)
+
+- [Class 34](./401/module-6/class-34.md)
