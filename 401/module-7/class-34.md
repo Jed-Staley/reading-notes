@@ -1,4 +1,4 @@
-# Class 24 Reading Notes
+# Class 34 Reading Notes
 
 ## Introduction
 
