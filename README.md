@@ -63,3 +63,5 @@
 - [Class 33](./401/module-7/class-33.md)
 
 - [Class 34](./401/module-7/class-34.md)
+
+- [Class 35](./401/module-7/class-35.md)
