@@ -65,3 +65,15 @@
 - [Class 34](./401/module-7/class-34.md)
 
 - [Class 35](./401/module-7/class-35.md)
+
+### Module 8
+
+- [Class 36](./401/module-8/class-36.md)
+
+- [Class 37](./401/module-8/class-37.md)
+
+- [Class 38](./401/module-8/class-38.md)
+
+- [Class 39](./401/module-8/class-39.md)
+
+- [Class 40](./401/module-8/class-40.md)
