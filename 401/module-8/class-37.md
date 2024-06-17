@@ -31,7 +31,7 @@ const rootReducer = combineReducers({
 
 Managing state as an immutable object ensures that state updates do not directly modify the existing state. Instead, they create a new state object with the updated values. This approach prevents unintended side effects, makes debugging easier, and optimizes performance by enabling efficient state change detection.
 
-### combineReducers is a utility function to simplify the most common use case when writing ___ _____ .
+### combineReducers is a utility function to simplify the most common use case when writing ___ _____
 
 combineReducers is a utility function to simplify the most common use case when writing **Redux reducers**.
 
@@ -69,7 +69,7 @@ const postsReducer = (state = [], action) => {
 
 As your app becomes more complex, splitting your reducing functions helps manage the complexity by keeping each function focused on a specific part of the state. This modular approach makes the codebase more maintainable, easier to understand, and simpler to test.
 
-### The _____ helper function turns an object whose values are different reducing functions into a single reducing function you can pass to ____.
+### The _____ helper function turns an object whose values are different reducing functions into a single reducing function you can pass to ____
 
 The **combineReducers** helper function turns an object whose values are different reducing functions into a single reducing function you can pass to **createStore**.
 
