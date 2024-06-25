@@ -1,0 +1,9 @@
+# Class 42 Reading Notes
+
+## Project Dragonfly, Google’s censored search engine
+
+Google is facing significant internal backlash from its employees over its plan to develop a censored search engine for China, known as Dragonfly. Around 1,400 employees signed a letter demanding more transparency and ethical considerations in the project's development. This project, revealed by The Intercept, would comply with Chinese censorship laws, blocking information on human rights and democracy. Google CEO Sundar Pichai defended the project as exploratory, but employees fear the company is straying from its ethical principles. The controversy follows a similar incident where Google employees protested a Pentagon contract, leading to its termination. This situation highlights the growing power of employees in influencing corporate decisions, as they call for a more formal role in ethical evaluations of company projects.
+
+## Cyber-Security of self driving cars
+
+The proliferation of self-driving cars, projected to reach 10 million by 2020, raises significant cybersecurity concerns. Autonomous vehicles, particularly those reliant on external connectivity, are vulnerable to hacking, with potential threats including remote hijacking and manipulation of onboard data. Researchers have demonstrated successful hacks on current car models, highlighting the risks. Automakers are striving to enhance security through robust software design and segregated computer networks within cars. Government regulators have issued guidelines emphasizing cybersecurity, but the complexity of ensuring secure systems remains a challenge. While startups are entering the market to address these issues, the effectiveness of their solutions varies. The future safety of fully autonomous vehicles depends on technological advancements and rigorous security measures.

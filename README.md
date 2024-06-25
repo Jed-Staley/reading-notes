@@ -77,3 +77,15 @@
 - [Class 39](./401/module-8/class-39.md)
 
 - [Class 40](./401/module-8/class-40.md)
+
+### Module 9
+
+- [Class 41](./401/module-9/class-41.md)
+
+- [Class 42](./401/module-9/class-42.md)
+
+- [Class 43](./401/module-9/class-43.md)
+
+- [Class 44](./401/module-9/class-44.md)
+
+- [Class 45](./401/module-9/class-45.md)
